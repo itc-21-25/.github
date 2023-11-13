@@ -1,8 +1,6 @@
 # Welcome to the 3ITC Class Organization 💻
 Welcome to our class GitHub organization for the game development project of 3ITC. It's where we collaborate and bring our game to life 🚀, piece by piece.
 
-[Prepnout na Českou verzi](#)
-
 ## Guide 🛠️
 To start contributing to the game development, you'll need to set up the project on your local machine. Here's how you can clone the repository, switch to your branch, and import it into Unity:
 
