@@ -32,7 +32,7 @@ To start contributing to the game development, you'll need to set up the project
 1. Open Unity Hub on your machine.
 2. Click on the 'Add' button ➕.
 3. Browse to the directory where you cloned the repository.
-4. Select the folder and open it with `Unity version 2022.3.11`.
+4. Select the folder and open it with `Unity version 2022.3.11f1`.
 
 ## Contributing to the Project 🤝
 Before making changes, be sure to read our [Contributing Guide](https://github.com/itc-21-25/3itcTeamGame?tab=readme-ov-file#contributing). It contains important information about naming conventions for commits, pull and merge requests.
