@@ -37,6 +37,9 @@ To start contributing to the game development, you'll need to set up the project
 ## Contributing to the Project 🤝
 Before making changes, be sure to read our [Contributing Guide](https://github.com/itc-21-25/3itcTeamGame?tab=readme-ov-file#contributing). It contains important information about naming conventions for commits, pull and merge requests.
 
+#### Workflow
+![Branch workflow diagram](https://github.com/itc-21-25/.github-private/blob/main/profile/files/workflow.png?raw=true)
+
 ## Resources 📚
 - [Simple Git Tutorial](https://up1.github.io/git-guide/index.html)
 - [Git Cheat Sheet (PDF)](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
