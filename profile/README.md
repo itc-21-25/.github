@@ -27,6 +27,10 @@ To start contributing to the game development, you'll need to set up the project
    git checkout [your_branch_name]
    ```
    Replace `[your_branch_name]` with the name of your branch.
+4. Update your local repository:
+   ```bash
+   git pull
+   ```
 
 #### Importing to Unity
 1. Open Unity Hub on your machine.
